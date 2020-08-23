@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> Hi, I am Karthikeyan 
 
 <!--
 **skarthikeyan96/skarthikeyan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
