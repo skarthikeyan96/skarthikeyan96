@@ -1,6 +1,6 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> Hi, I am Karthikeyan 
 
 
+<img src="https://user-images.githubusercontent.com/23126394/114269492-08f9fb00-9a25-11eb-89e0-a46912340a0b.png"> 
 <!--
 **skarthikeyan96/skarthikeyan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
