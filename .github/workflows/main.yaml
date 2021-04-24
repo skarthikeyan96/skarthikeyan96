@@ -27,13 +27,14 @@ jobs:
         run: npm install
       - name: Generate README file
         run: node index.js
-      # - name: Commit and Push new README.md to the repository
-      #   uses: mikeal/publish-to-github-action@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and Push new README.md to the repository
+        uses: mikeal/publish-to-github-action@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: main
 # Commenting out pull-request action will investigate more on the build failure
-      - name: pull-request
-        uses: repo-sync/pull-request@v2
-        with:
-          destination_branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+      # - name: pull-request
+      #   uses: repo-sync/pull-request@v2
+      #   with:
+      #     destination_branch: "main"
+      #     github_token: ${{ secrets.GITHUB_TOKEN }}
