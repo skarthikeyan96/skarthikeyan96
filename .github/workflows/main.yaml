@@ -31,7 +31,7 @@ jobs:
         uses: mikeal/publish-to-github-action@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH_NAME: main
+          BRANCH_NAME: "main"
 # Commenting out pull-request action will investigate more on the build failure
       # - name: pull-request
       #   uses: repo-sync/pull-request@v2
