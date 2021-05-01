@@ -1,6 +1,13 @@
 <img src=https://user-images.githubusercontent.com/23126394/114269492-08f9fb00-9a25-11eb-89e0-a46912340a0b.png alt="banner" />
 
-🕰️ Saturday, 1 May, 19:01 UTC
+<br/>
+
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" width="80" height="auto" />
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"  width="87" height="auto">
+<img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" width="100" height="auto">
+<hr/>
+
+🕰️ Sunday, 2 May, 00:27 GMT+5:30
 
 Karthikeyan working as a Front End Engineer @Bang the table 
  
@@ -34,3 +41,5 @@ Karthikeyan working as a Front End Engineer @Bang the table
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
 </p>
+
+<img src="https://github.com/skarthikeyan96/skarthikeyan96/actions/workflows/main.yaml/badge.svg"/>
