@@ -2,9 +2,14 @@
 
 <hr/>
 
-🕰️ Sunday, 2 May, 07:08 UTC
+🕰️ Sunday, 2 May, 09:04 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
+
+<img src="https://img.shields.io/badge/-karthikeyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikeyan-s-4a13608a/"/>
+<img src="https://img.shields.io/badge/-@__imkarthikeyans-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/imkarthikeyans"/>
+<img src="https://img.shields.io/badge/-@__karthikcoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthik_coder"/>
+
 
 <hr/>
 
@@ -57,3 +62,4 @@ Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 </p>
+
