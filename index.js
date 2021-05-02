@@ -38,7 +38,7 @@ const setblogData = (posts) => {
 
 let DATA = {
   banner:
-    "https://user-images.githubusercontent.com/23126394/114269492-08f9fb00-9a25-11eb-89e0-a46912340a0b.png",
+    "https://user-images.githubusercontent.com/23126394/116805261-bfdc2900-ab42-11eb-8db5-a92053be76d3.png",
   name: "Karthikeyan",
   company: "Bang the table",
   date: new Date().toLocaleDateString("en-GB", {

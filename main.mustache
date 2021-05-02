@@ -4,20 +4,28 @@
 
 🕰️ {{date}}
 
-{{name}} working as a Front End Engineer @{{company}} 
+👋 Hello , I am {{name}} working as a Front End Engineer @{{company}}. I am from Chennai , TamilNadu.  
 
 <hr/>
 
- <h3> Blog post listings </h3>
+<div>
+ <h3> My Latest Posts :  </h3>
 
- <ul>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Reaction Count</th>
+  </tr>
   {{#blog}}
-    <li id="{{id}}"> 
-    <a href={{url}}> {{title}}  </a> 
-    <p> Reaction Count : {{ reaction_count }} </p>
-    </li>
+  <tr>
+  <td> <a href={{url}}> {{title}}  </a>  </td>
+  <td>  {{ reaction_count }}  </td>
+  </tr>
   {{/blog}}
-</ul>
+</table>
+Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a> 
+</div>
+
 
 <hr/> 
 
@@ -33,4 +41,5 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 </p>
