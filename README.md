@@ -1,37 +1,45 @@
-<img src=https://user-images.githubusercontent.com/23126394/114269492-08f9fb00-9a25-11eb-89e0-a46912340a0b.png alt="banner" />
+<img src=https://user-images.githubusercontent.com/23126394/116805261-bfdc2900-ab42-11eb-8db5-a92053be76d3.png alt="banner" />
 
 <hr/>
 
-🕰️ Sunday, 2 May, 06:06 UTC
+🕰️ Sunday, 2 May, 07:08 UTC
 
-Karthikeyan working as a Front End Engineer @Bang the table 
+👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
 <hr/>
 
- <h3> Blog post listings </h3>
+<div>
+ <h3> My Latest Posts :  </h3>
 
- <ul>
-    <li id="654323"> 
-    <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;1-getting-started-with-preact-preact-series-4ca> #1 Getting started with Preact - Preact Series  </a> 
-    <p> Reaction Count : 5 </p>
-    </li>
-    <li id="653521"> 
-    <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;my-vs-code-setup-2ffa> My VS Code Setup  </a> 
-    <p> Reaction Count : 11 </p>
-    </li>
-    <li id="613729"> 
-    <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;how-to-serve-an-asset-through-jsdelivr-cdn-from-github-4g61> How to serve an asset through jsdelivr CDN from Github.  </a> 
-    <p> Reaction Count : 4 </p>
-    </li>
-    <li id="580979"> 
-    <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;100daysofgatsby-sprint-1-55h1> #100daysofGatsby - Sprint 1  </a> 
-    <p> Reaction Count : 0 </p>
-    </li>
-    <li id="556297"> 
-    <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;javascript-closure-in-loops-ebi> Understanding JavaScript Closures in Loops  </a> 
-    <p> Reaction Count : 1 </p>
-    </li>
-</ul>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Reaction Count</th>
+  </tr>
+  <tr>
+  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;1-getting-started-with-preact-preact-series-4ca> #1 Getting started with Preact - Preact Series  </a>  </td>
+  <td>  5  </td>
+  </tr>
+  <tr>
+  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;my-vs-code-setup-2ffa> My VS Code Setup  </a>  </td>
+  <td>  11  </td>
+  </tr>
+  <tr>
+  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;how-to-serve-an-asset-through-jsdelivr-cdn-from-github-4g61> How to serve an asset through jsdelivr CDN from Github.  </a>  </td>
+  <td>  4  </td>
+  </tr>
+  <tr>
+  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;100daysofgatsby-sprint-1-55h1> #100daysofGatsby - Sprint 1  </a>  </td>
+  <td>  0  </td>
+  </tr>
+  <tr>
+  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;javascript-closure-in-loops-ebi> Understanding JavaScript Closures in Loops  </a>  </td>
+  <td>  1  </td>
+  </tr>
+</table>
+Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a> 
+</div>
+
 
 <hr/> 
 
@@ -47,4 +55,5 @@ Karthikeyan working as a Front End Engineer @Bang the table
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 </p>
