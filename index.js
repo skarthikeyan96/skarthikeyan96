@@ -24,7 +24,6 @@ const fetchBlog = async() => {
 
 
 
-
 const setblogData = (posts) => {
   const Posts = orderBy(posts, ["published_timestamp"], ["asc"]).map((post) => {
     return {
