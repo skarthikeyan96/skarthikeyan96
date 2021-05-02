@@ -1,15 +1,21 @@
 <img src=https://user-images.githubusercontent.com/23126394/116805261-bfdc2900-ab42-11eb-8db5-a92053be76d3.png alt="banner" />
 
+<p style="text-align:center"> <img src="https://github.com/skarthikeyan96/skarthikeyan96/actions/workflows/main.yml/badge.svg"/> </p>
+
 <hr/>
 
-🕰️ Sunday, 2 May, 09:04 UTC
+🕰️ Sunday, 2 May, 09:12 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
-<img src="https://img.shields.io/badge/-karthikeyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikeyan-s-4a13608a/"/>
-<img src="https://img.shields.io/badge/-@__imkarthikeyans-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/imkarthikeyans"/>
-<img src="https://img.shields.io/badge/-@__karthikcoder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthik_coder"/>
+<div>
 
+<img src="https://img.shields.io/badge/-karthikeyan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/karthikeyan-s-4a13608a/"/>
+<img src="https://img.shields.io/badge/-@imkarthikeyans-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/imkarthikeyans"/>
+<img src="https://img.shields.io/badge/-@karthik_coder-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/karthik_coder"/>
+<img src="https://img.shields.io/badge/-@imkarthikeyan-black-1ca0f1?style=flat&labelColor=1ca0f1&logo=dev.to&logoColor=white&link=https://dev.to/imkarthikeyan"/>
+
+</div>
 
 <hr/>
 
