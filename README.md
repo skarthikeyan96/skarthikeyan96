@@ -1,10 +1,10 @@
 <img src=https://user-images.githubusercontent.com/23126394/116805261-bfdc2900-ab42-11eb-8db5-a92053be76d3.png alt="banner" />
 
-<p style="text-align:center"> <img src="https://github.com/skarthikeyan96/skarthikeyan96/actions/workflows/main.yaml/badge.svg"/> </p>
+<p align="center"> <img src="https://github.com/skarthikeyan96/skarthikeyan96/actions/workflows/main.yaml/badge.svg"/> </p>
 
 <hr/>
 
-🕰️ Sunday, 2 May, 09:17 UTC
+🕰️ Sunday, 2 May, 09:24 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
