@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 28 May, 01:48 UTC
+🕰️ Friday, 28 May, 12:55 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -26,26 +26,6 @@
   <tr>
     <th>Title</th>
     <th>Reaction Count</th>
-  </tr>
-  <tr>
-  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;1-getting-started-with-preact-preact-series-4ca> #1 Getting started with Preact - Preact Series  </a>  </td>
-  <td>  5  </td>
-  </tr>
-  <tr>
-  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;my-vs-code-setup-2ffa> My VS Code Setup  </a>  </td>
-  <td>  11  </td>
-  </tr>
-  <tr>
-  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;how-to-serve-an-asset-through-jsdelivr-cdn-from-github-4g61> How to serve an asset through jsdelivr CDN from Github.  </a>  </td>
-  <td>  4  </td>
-  </tr>
-  <tr>
-  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;100daysofgatsby-sprint-1-55h1> #100daysofGatsby - Sprint 1  </a>  </td>
-  <td>  0  </td>
-  </tr>
-  <tr>
-  <td> <a href=https:&#x2F;&#x2F;dev.to&#x2F;imkarthikeyan&#x2F;javascript-closure-in-loops-ebi> Understanding JavaScript Closures in Loops  </a>  </td>
-  <td>  1  </td>
   </tr>
 </table>
 Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a> 
