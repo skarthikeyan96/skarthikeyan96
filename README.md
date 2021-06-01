@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Tuesday, 1 June, 13:00 UTC
+🕰️ Tuesday, 1 June, 13:15 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
