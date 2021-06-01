@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.0...v1.0.1) (2021-06-01)
+
+
+### Bug Fixes
+
+* readme fix ([6ef58c0](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/6ef58c0b6032ec4368b8253c124d1e88027bc048))
+
 ## 1.0.0 (2021-05-02)
 
 
