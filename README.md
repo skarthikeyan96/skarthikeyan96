@@ -18,9 +18,10 @@
 </div>
 
 <hr/>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a> 
-</div>
 
 
 <hr/> 
