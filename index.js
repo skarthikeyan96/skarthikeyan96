@@ -2,39 +2,7 @@
 const Mustache = require("mustache");
 const fs = require("fs");
 const MUSTACHE_MAIN_DIR = "./main.mustache";
-const fetch = require("node-fetch");
-const orderBy = require("lodash/orderBy");
-const takeRight = require("lodash/takeRight")
-const reverse =require("lodash/reverse")
-/**
- * DATA is the object that contains all
- * the data to be provided to Mustache
- * Notice the "name" and "date" property.
- */
-const fetchBlog = async() => {
-  await fetch('https://dev.to/api/articles?username=imkarthikeyan')
-  .then((response) => { 
-      response.json().then((data) => {
-        setblogData(data);;
-      }).catch((err) => {
-          console.log(err);
-      }) 
-  });
-};
 
-
-
-const setblogData = (posts) => {
-  const Posts = orderBy(posts, ["published_timestamp"], ["asc"]).map((post) => {
-    return {
-      'id': post.id,
-      'title': post.title,
-      'url': post.url,
-      'reaction_count': post.public_reactions_count
-    };
-  });
-  DATA.blog = reverse(takeRight(Posts,5))
-};
 
 let DATA = {
   banner:
@@ -65,8 +33,6 @@ async function generateReadMe() {
 }
 
 async function renderReadme(){
-  await fetchBlog();
-
   await generateReadMe()
 }
 
