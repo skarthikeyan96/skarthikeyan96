@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.1...v1.1.0) (2021-06-15)
+
+
+### Features
+
+* add blog post workflow ([b65091c](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/b65091cdd4c1c8c1d2019c921093f3bc20b1f53e))
+
+
+### Bug Fixes
+
+* fix blog post workflow ([18a8cba](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/18a8cba6a5fc72be00d04f1f87fd038226228eed))
+* removing blog data and replacing it with actions ([4fd6435](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/4fd6435f60051ee97b24c8705ca47d08a591aaab))
+* updating the view template ([f121b19](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/f121b19168f672196101f7e038d491fcf62032fd))
+
 ### [1.0.1](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.0...v1.0.1) (2021-06-01)
 
 
