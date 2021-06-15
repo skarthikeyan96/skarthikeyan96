@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Tuesday, 15 June, 12:56 UTC
+🕰️ Tuesday, 15 June, 13:06 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -19,11 +19,9 @@
 
 <hr/>
 
-Find more blogs <a href="https://dev.to/imkarthikeyan" target="_blank"> here </a> 
-</div>
-
-
-<hr/> 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
 <p> 
