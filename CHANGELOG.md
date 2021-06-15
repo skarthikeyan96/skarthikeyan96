@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.1...v1.0.2) (2021-06-15)
+
+
+### Bug Fixes
+
+* removing blog data and replacing it with actions ([4fd6435](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/4fd6435f60051ee97b24c8705ca47d08a591aaab))
+* updating the view template ([f121b19](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/f121b19168f672196101f7e038d491fcf62032fd))
+
 ### [1.0.1](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.0...v1.0.1) (2021-06-01)
 
 
