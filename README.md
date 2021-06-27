@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Saturday, 26 June, 12:28 UTC
+🕰️ Sunday, 27 June, 01:05 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -22,11 +22,6 @@
 <h4> Blog posts </h4>
 
 <!-- BLOG-POST-LIST:START -->
-- [What is State management ?](https://dev.to/imkarthikeyan/what-is-state-management-568b)
-- [#1 Getting started with Preact - Preact Series](https://dev.to/imkarthikeyan/1-getting-started-with-preact-preact-series-4ca)
-- [My VS Code Setup](https://dev.to/imkarthikeyan/my-vs-code-setup-2ffa)
-- [How to serve an asset through jsdelivr CDN from Github.](https://dev.to/imkarthikeyan/how-to-serve-an-asset-through-jsdelivr-cdn-from-github-4g61)
-- [#100daysofGatsby - Sprint 1](https://dev.to/imkarthikeyan/100daysofgatsby-sprint-1-55h1)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
