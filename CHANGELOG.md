@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.1.0...v1.2.0) (2021-08-03)
+
+
+### Features
+
+* adding wakatime stats ([5467867](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/5467867b1cc0cb3bec5421992378526634a947d0))
+
 ## [1.1.0](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.0.1...v1.1.0) (2021-06-15)
 
 
