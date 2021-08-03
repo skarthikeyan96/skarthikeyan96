@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Tuesday, 3 August, 17:23 UTC
+🕰️ Tuesday, 3 August, 17:26 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -18,8 +18,6 @@
 </div>
 
 <hr/>
-
-<h4> Blog posts </h4>
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -39,3 +37,5 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
