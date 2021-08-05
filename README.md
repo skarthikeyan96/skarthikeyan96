@@ -38,4 +38,11 @@
 </p>
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   5 hrs 41 mins   ██████████▓░░░░░░░░░░░░░░   42.38 % 
+JavaScript   4 hrs 56 mins   █████████▒░░░░░░░░░░░░░░░   36.72 % 
+JSON         1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.99 % 
+Other        1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+CSS          13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+```
 <!--END_SECTION:waka-->
