@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 27 August, 12:29 UTC
+🕰️ Saturday, 28 August, 00:55 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to execute shell commands in Node js ?](https://dev.to/imkarthikeyan/how-to-execute-shell-commands-in-node-js-5eaa)
-- [What is State management ?](https://dev.to/imkarthikeyan/what-is-state-management-568b)
-- [#1 Getting started with Preact - Preact Series](https://dev.to/imkarthikeyan/1-getting-started-with-preact-preact-series-4ca)
-- [My VS Code Setup](https://dev.to/imkarthikeyan/my-vs-code-setup-2ffa)
-- [How to serve an asset through jsdelivr CDN from Github.](https://dev.to/imkarthikeyan/how-to-serve-an-asset-through-jsdelivr-cdn-from-github-4g61)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -43,11 +38,4 @@
 </p>
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   15 hrs 21 mins  ███████████████▓░░░░░░░░░   63.10 % 
-JavaScript   5 hrs 27 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.44 % 
-JSON         2 hrs 7 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-CSS          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-LESS         32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
-```
 <!--END_SECTION:waka-->
