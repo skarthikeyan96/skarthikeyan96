@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Monday, 20 September, 12:30 UTC
+🕰️ Tuesday, 21 September, 01:03 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Web components](https://dev.to/imkarthikeyan/getting-started-with-web-components-gcl)
-- [How to execute shell commands in Node js ?](https://dev.to/imkarthikeyan/how-to-execute-shell-commands-in-node-js-5eaa)
-- [What is State management ?](https://dev.to/imkarthikeyan/what-is-state-management-568b)
-- [#1 Getting started with Preact - Preact Series](https://dev.to/imkarthikeyan/1-getting-started-with-preact-preact-series-4ca)
-- [My VS Code Setup](https://dev.to/imkarthikeyan/my-vs-code-setup-2ffa)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
