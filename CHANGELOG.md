@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.2.0...v1.3.0) (2021-10-06)
+
+
+### Features
+
+* adding devcard to readme ([fdaf465](https://www.github.com/skarthikeyan96/skarthikeyan96/commit/fdaf4659f3985423c824e541513028071367b343))
+
 ## [1.2.0](https://www.github.com/skarthikeyan96/skarthikeyan96/compare/v1.1.0...v1.2.0) (2021-08-03)
 
 
