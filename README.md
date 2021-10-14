@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Wednesday, 13 October, 12:30 UTC
+🕰️ Thursday, 14 October, 01:03 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add Dribble social login to your React Application using Auth0.](https://dev.to/imkarthikeyan/how-to-add-dribble-social-login-to-your-react-application-using-auth0-3l66)
-- [Getting started with Deno](https://dev.to/imkarthikeyan/getting-started-with-deno-9ld)
-- [Getting Started with Web components](https://dev.to/imkarthikeyan/getting-started-with-web-components-gcl)
-- [How to execute shell commands in Node js ?](https://dev.to/imkarthikeyan/how-to-execute-shell-commands-in-node-js-5eaa)
-- [What is State management ?](https://dev.to/imkarthikeyan/what-is-state-management-568b)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,12 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   8 hrs 54 mins   ███████████████████▓░░░░░   78.36 % 
-JavaScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-JSON         39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Markdown     23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-Ruby         10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-```
 <!--END_SECTION:waka-->
 
