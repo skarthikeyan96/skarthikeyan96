@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 5 November, 12:30 UTC
+🕰️ Saturday, 6 November, 01:00 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to add dark mode toggle to Next.js application using Chakra UI](https://dev.to/imkarthikeyan/how-to-add-dark-mode-toggle-to-nextjs-application-using-chakra-ui-a97)
-- [How to add Dribble social login to your React Application using Auth0.](https://dev.to/imkarthikeyan/how-to-add-dribble-social-login-to-your-react-application-using-auth0-3l66)
-- [Getting started with Deno](https://dev.to/imkarthikeyan/getting-started-with-deno-9ld)
-- [Getting Started with Web components](https://dev.to/imkarthikeyan/getting-started-with-web-components-gcl)
-- [How to execute shell commands in Node js ?](https://dev.to/imkarthikeyan/how-to-execute-shell-commands-in-node-js-5eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,12 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   10 hrs 42 mins  ████████████████████▒░░░░   80.97 % 
-JavaScript   1 hr 36 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.16 % 
-JSON         41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Bash         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-Other        4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-```
 <!--END_SECTION:waka-->
 
