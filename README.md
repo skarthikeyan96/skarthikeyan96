@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Monday, 15 November, 01:02 UTC
+🕰️ Monday, 15 November, 12:31 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to deploy a react application present in a repository to Netlify ?](https://dev.to/imkarthikeyan/how-to-deploy-a-react-application-present-in-a-repository-to-netlify--153)
-- [Resources to practice web development](https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko)
-- [How to add dark mode toggle to Next.js application using Chakra UI](https://dev.to/imkarthikeyan/how-to-add-dark-mode-toggle-to-nextjs-application-using-chakra-ui-a97)
-- [How to add Dribble social login to your React Application using Auth0.](https://dev.to/imkarthikeyan/how-to-add-dribble-social-login-to-your-react-application-using-auth0-3l66)
-- [Getting started with Deno](https://dev.to/imkarthikeyan/getting-started-with-deno-9ld)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,12 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-```text
-TypeScript   6 hrs 57 mins   ██████████████████████░░░   88.13 % 
-Bash         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JavaScript   18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 % 
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-```
 <!--END_SECTION:waka-->
 
