@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 19 November, 01:03 UTC
+🕰️ Friday, 19 November, 12:30 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to change the default port number in Next.js application](https://dev.to/imkarthikeyan/how-to-change-the-default-port-number-in-nextjs-application-4hm0)
-- [How to deploy a react application present in a repository to Netlify ?](https://dev.to/imkarthikeyan/how-to-deploy-a-react-application-present-in-a-repository-to-netlify--153)
-- [Resources to practice web development](https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko)
-- [How to add dark mode toggle to Next.js application using Chakra UI](https://dev.to/imkarthikeyan/how-to-add-dark-mode-toggle-to-nextjs-application-using-chakra-ui-a97)
-- [How to add Dribble social login to your React Application using Auth0.](https://dev.to/imkarthikeyan/how-to-add-dribble-social-login-to-your-react-application-using-auth0-3l66)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,8 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
