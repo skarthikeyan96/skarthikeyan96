@@ -20,6 +20,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript — Call stack , event loop and callback queue](https://dev.to/imkarthikeyan/javascript-call-stack-event-loop-and-callback-queue-1ioo)
+- [Integrating Percy and Cypress to your Next.js application.](https://dev.to/imkarthikeyan/integrating-percy-and-cypress-to-your-nextjs-application-3fj0)
+- [How to change the default port number in Next.js application](https://dev.to/imkarthikeyan/how-to-change-the-default-port-number-in-nextjs-application-4hm0)
+- [How to deploy a react application present in a repository to Netlify ?](https://dev.to/imkarthikeyan/how-to-deploy-a-react-application-present-in-a-repository-to-netlify--153)
+- [Resources to practice web development](https://dev.to/imkarthikeyan/resources-to-practice-web-development-ko)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
