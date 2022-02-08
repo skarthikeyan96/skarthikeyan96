@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Tuesday, 8 February, 01:08 UTC
+🕰️ Tuesday, 8 February, 12:33 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello, World!](https://dev.to/imkarthikeyan/hello-world-402d)
-- [Hello, World!](https://dev.to/imkarthikeyan/hello-world-3fl)
-- [Next.js and Mongo RSS feed](https://dev.to/imkarthikeyan/nextjs-and-mongo-rss-feed-43mn)
-- [JavaScript — Call stack , event loop and callback queue](https://dev.to/imkarthikeyan/javascript-call-stack-event-loop-and-callback-queue-1ioo)
-- [Integrating Percy and Cypress to your Next.js application.](https://dev.to/imkarthikeyan/integrating-percy-and-cypress-to-your-nextjs-application-3fj0)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,8 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->
 
