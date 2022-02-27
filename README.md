@@ -20,11 +20,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Test post from Kross post](https://dev.to/imkarthikeyan/test-post-from-kross-post-1kl7)
 - [Hello, World!](https://dev.to/imkarthikeyan/hello-world-402d)
 - [Hello, World!](https://dev.to/imkarthikeyan/hello-world-3fl)
 - [Next.js and Mongo RSS feed](https://dev.to/imkarthikeyan/nextjs-and-mongo-rss-feed-43mn)
 - [JavaScript — Call stack , event loop and callback queue](https://dev.to/imkarthikeyan/javascript-call-stack-event-loop-and-callback-queue-1ioo)
+- [Integrating Percy and Cypress to your Next.js application.](https://dev.to/imkarthikeyan/integrating-percy-and-cypress-to-your-nextjs-application-3fj0)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
