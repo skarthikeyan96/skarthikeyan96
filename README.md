@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Monday, 11 April, 12:40 UTC
+🕰️ Tuesday, 12 April, 01:40 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [How to send a email using Sendgrid and Node.js ?](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
-- [How to add dark mode to Next.js project using Tailwind ?](https://dev.to/imkarthikeyan/how-to-add-dark-mode-to-nextjs-project-using-tailwind--gj7)
-- [Clippr - Light weight url shortener](https://dev.to/imkarthikeyan/clippr-light-weight-url-shortener-560b)
-- [Hello, World!](https://dev.to/imkarthikeyan/hello-world-402d)
-- [Hello, World!](https://dev.to/imkarthikeyan/hello-world-3fl)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
