@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Monday, 9 May, 01:56 UTC
+🕰️ Monday, 9 May, 12:43 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript Shorts - Module Augmentation](https://dev.to/imkarthikeyan/typescript-shorts-module-augmentation-36jb)
-- [Appwrite Hackathon Submission - Movie App](https://dev.to/imkarthikeyan/appwrite-hackathon-submission-movie-app-2mnf)
-- [How to build a movie application using Next.js and Appwrite ?](https://dev.to/imkarthikeyan/how-to-build-a-movie-application-using-nextjs-and-appwrite--18po)
-- [Getting Started with Index Signatures](https://dev.to/imkarthikeyan/getting-started-with-index-signatures-58bn)
-- [How to send a email using Sendgrid and Node.js ?](https://dev.to/imkarthikeyan/how-to-send-a-email-using-sendgrid-and-nodejs--2l39)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
