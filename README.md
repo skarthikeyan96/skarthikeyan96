@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Wednesday, 22 June, 02:10 UTC
+🕰️ Wednesday, 22 June, 12:40 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with PouchDB](https://dev.to/imkarthikeyan/getting-started-with-pouchdb-541k)
-- [How to sign your Github Commits ?](https://dev.to/imkarthikeyan/how-to-sign-your-github-commits--3ko1)
-- [Javascript Shorts : null and undefined](https://dev.to/imkarthikeyan/javascript-shorts-null-and-undefined-32c6)
-- [How to build a Hacker news clone using Remix, Tailwind css ?](https://dev.to/imkarthikeyan/how-to-build-a-hacker-news-clone-using-remix-tailwind-css--4lp)
-- [Typescript Shorts - Module Augmentation](https://dev.to/imkarthikeyan/typescript-shorts-module-augmentation-36jb)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
