@@ -52,3 +52,5 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+![blogStatsImage](https://blog-stats-dev.vercel.app//api/dev?username=imkarthikeyan&year=2022&theme=default)
+
