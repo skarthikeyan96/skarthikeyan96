@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Sunday, 12 March, 12:20 UTC
+🕰️ Sunday, 12 March, 12:32 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -45,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
