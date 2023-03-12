@@ -49,6 +49,5 @@
 <a href="https://app.daily.dev/green_arrow996"><img src="https://github.com/skarthikeyan96/skarthikeyan96/blob/main/devcard.svg" width="400" alt="Karthikeyan's Dev Card"/></a>
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+![blogStatsImage](https://blog-stats-dev.vercel.app//api/dev?username=imkarthikeyan&year=2022&theme=default)
 
