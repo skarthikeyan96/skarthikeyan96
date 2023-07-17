@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Monday, 17 July, 01:55 UTC
+🕰️ Monday, 17 July, 12:39 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [PR Summary using Open AI and Github actions](https://dev.to/imkarthikeyan/pr-summary-using-open-ai-and-github-actions-1l16)
-- [Integrating ESRI Maps into your React App](https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h)
-- [Odesey - Final Showdown](https://dev.to/imkarthikeyan/odesey-final-showdown-37oj)
-- [How to build a Todo API using FastAPI and MongoDB](https://dev.to/imkarthikeyan/how-to-build-a-todo-api-using-fastapi-and-mongodb-1en8)
-- [How to setup a Cluster using MongoDB atlas ?](https://dev.to/imkarthikeyan/how-to-setup-a-cluster-using-mongodb-atlas--2nni)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
