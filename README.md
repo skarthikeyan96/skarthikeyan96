@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Tuesday, 28 May, 01:15 UTC
+🕰️ Tuesday, 28 May, 12:33 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
-- [Browser shorts - HTML Drag and Drop API](https://dev.to/imkarthikeyan/browser-shorts-html-drag-and-drop-api-56i)
-- [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
-- [PR Summary using Open AI and Github actions](https://dev.to/imkarthikeyan/pr-summary-using-open-ai-and-github-actions-1l16)
-- [Integrating ESRI Maps into your React App](https://dev.to/imkarthikeyan/integrating-esri-maps-into-your-react-app-2e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
