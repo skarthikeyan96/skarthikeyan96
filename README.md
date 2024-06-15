@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 14 June, 12:34 UTC
+🕰️ Saturday, 15 June, 01:17 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [One Byte Explainer - Event loop](https://dev.to/imkarthikeyan/one-byte-explainer-event-loop-nlf)
-- [One byte explainer - Callbacks](https://dev.to/imkarthikeyan/one-byte-explainer-callbacks-34bo)
-- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
-- [Browser shorts - HTML Drag and Drop API](https://dev.to/imkarthikeyan/browser-shorts-html-drag-and-drop-api-56i)
-- [Analyzing Your Blog Stats with Next.js](https://dev.to/imkarthikeyan/analyzing-your-blog-stats-with-nextjs-22e2)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
