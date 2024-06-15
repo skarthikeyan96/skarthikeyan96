@@ -20,6 +20,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
+- [One Byte Explainer - Promise](https://dev.to/imkarthikeyan/one-byte-explainer-promise-m5c)
+- [One Byte Explainer - Event loop](https://dev.to/imkarthikeyan/one-byte-explainer-event-loop-nlf)
+- [One byte explainer - Callbacks](https://dev.to/imkarthikeyan/one-byte-explainer-callbacks-34bo)
+- [Online Journal](https://dev.to/imkarthikeyan/online-journal-2icm)
+- [Browser shorts - HTML Drag and Drop API](https://dev.to/imkarthikeyan/browser-shorts-html-drag-and-drop-api-56i)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
