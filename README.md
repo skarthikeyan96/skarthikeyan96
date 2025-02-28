@@ -4,7 +4,7 @@
 
 <hr/>
 
-🕰️ Friday, 28 February, 01:41 UTC
+🕰️ Friday, 28 February, 12:40 UTC
 
 👋 Hello , I am Karthikeyan working as a Front End Engineer @Bang the table. I am from Chennai , TamilNadu.  
 
@@ -20,11 +20,6 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Graphs in JavaScript: Adjacency Matrix vs. Adjacency List](https://dev.to/imkarthikeyan/understanding-graphs-in-javascript-adjacency-matrix-vs-adjacency-list-3kp2)
-- [Top Tech Trends to Watch in 2025](https://dev.to/imkarthikeyan/top-tech-trends-to-watch-in-2025-lam)
-- [AI Environmental Bot Creation: A Step-by-Step Guide with Twilio, Node.js, Gemini, and Render](https://dev.to/imkarthikeyan/step-by-step-guide-to-creating-an-ai-environmental-bot-with-twilio-nodejs-and-render-3498)
-- [Twilio challenge - Environmental Bot](https://dev.to/imkarthikeyan/twilio-challenge-environmental-bot-jm1)
-- [One Byte Explainer - Closures](https://dev.to/imkarthikeyan/one-byte-explainer-closures-o84)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
@@ -50,10 +45,5 @@
 
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
