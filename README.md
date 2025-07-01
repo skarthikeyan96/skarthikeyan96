@@ -20,11 +20,11 @@
 <hr/>
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to MDX Editor](https://dev.to/imkarthikeyan/welcome-to-mdx-editor-3gdp)
 - [🧠 Mom Mode – Let Runner H Nag You into a Better Life](https://dev.to/imkarthikeyan/mom-mode-let-runner-h-nag-you-into-a-better-life-34km)
 - [Global TrendSpark: Automate Viral Content Creation with Runner H](https://dev.to/imkarthikeyan/global-trendspark-automate-viral-content-creation-with-runner-h-2n2g)
 - [Building a GitHub Issue Auto-Labeler with Pulumi and Node.js: A Challenge Journey](https://dev.to/imkarthikeyan/building-a-github-issue-auto-labeler-with-pulumi-and-nodejs-a-challenge-journey-3dnb)
 - [Understanding Graphs in JavaScript: Adjacency Matrix vs. Adjacency List](https://dev.to/imkarthikeyan/understanding-graphs-in-javascript-adjacency-matrix-vs-adjacency-list-3kp2)
+- [Top Tech Trends to Watch in 2025](https://dev.to/imkarthikeyan/top-tech-trends-to-watch-in-2025-lam)
 <!-- BLOG-POST-LIST:END -->
 
 <h4> Tools : </h4>
