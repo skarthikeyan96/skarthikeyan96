@@ -33,5 +33,8 @@ I recently wiped my GitHub slate clean to rebuild everything from scratch — in
 
 ---
 
+![Karthikeyan's Dev.to stats](https://blog-stats-generator.vercel.app/api/stats-card?username=imkarthikeyan&year=2025&theme=gradient-purple)
+
+---
 > “Burn the old. Build with clarity.”  
 > — Me, just now.
